@@ -1,0 +1,36 @@
+gpu06.slurm.cpe.kmutt.ac.th
+Sun Nov 15 11:13:06 PM +07 2026
+GPU: NVIDIA GeForce RTX 4090
+Training examples: 10000
+Validation examples: 500
+Test examples: 200
+Batch size: 8
+Epochs: 10
+Epoch 01: train loss=7.3386, validation loss=6.9178
+Epoch 02: train loss=6.1214, validation loss=6.7257
+Epoch 03: train loss=5.8899, validation loss=8.3078
+Epoch 04: train loss=5.8788, validation loss=9.6138
+Epoch 05: train loss=6.7475, validation loss=7.8711
+Epoch 06: train loss=7.4659, validation loss=7.9255
+Epoch 07: train loss=7.4309, validation loss=9.0141
+Epoch 08: train loss=7.4168, validation loss=8.7228
+Epoch 09: train loss=7.4126, validation loss=9.0291
+Epoch 10: train loss=7.4106, validation loss=8.9520
+Test loss: 6.7717
+Test perplexity: 872.7606
+Generating summaries...
+rouge1: 10.01
+rouge2: 0.65
+rougeL: 8.92
+
+Reference: Justin Rose bounced back from Florida misery by carding 69 in Houston . Three-time Masters champion Phil Mickelson enjoyed return to form . Paul Casey celebrated last-gasp Masters invitation with fine round of 68 .
+Generated: NEW : " I ' s " The U. S. " in the U. The U. S. The U. The U. " The U. " The U. " The U. " The U. S. " The U. " is a " in the U. " The U. S.
+
+Reference: Lewis Ferguson fell from Merrion Square at Wincanton on Wednesday . Despite spectacular tumble he escaped with just a cut nose . Ferguson has been mucking out stables as usual on Thursday morning . The 18-year-old says incident that went viral was 'just a blur' to him .
+Generated: NEW : " I ' s " The U. S. " in the U. The U. S. The U. The U. " The U. " The U. " The U. " The U. S. " The U. " is a " in the U. " The U. S.
+
+Reference: Woman reported 'someone' had been run over, but victim was a squirrel . Another man dialled 999 to say he dropped a burger which was 'bleeding' East of England ambulance service warned hoax calls can cost lives .
+Generated: NEW : " I ' s " The U. S. " in the U. The U. S. The U. The U. " The U. " The U. " The U. " The U. S. " The U. " is a " in the U. " The U. S.
+
+Finished.
+Sun Nov 15 11:30:06 PM +07 2026
